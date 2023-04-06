@@ -1,7 +1,7 @@
 {
     "format_version": 1,
     "tooth": "github.com/WillowSauceR/MediaPlayer-tooth",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "dependencies": {
         "github.com/tooth-hub/bds": [
             [
@@ -12,7 +12,7 @@
     },
     "information": {
         "name": "MediaPlayer",
-        "description": "This plugin is used to play music on the server, currently in the early stages of development, only the basic framework is completed. Note: This plugin is currently not suitable for production environments, please wait for subsequent versions released",
+        "description": "This plugin is used to play music on the server with high performance",
         "author": "WillowSauceR",
         "license": "GPL-3.0",
         "repository": "github.com/WillowSauceR/MediaPlayer"
