@@ -1,7 +1,7 @@
 {
     "format_version": 1,
     "tooth": "github.com/WillowSauceR/MediaPlayer-tooth",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "dependencies": {
         "github.com/tooth-hub/bds": [
             [
@@ -25,6 +25,10 @@
         {
             "source": "MediaPlayer.pdb",
             "destination": "plugins/MediaPlayer.pdb"
+        },
+        {
+            "source": "convert.bat",
+            "destination": "plugins/MediaPlayer/video/convert.bat"
         }
     ],
     "possession": [
