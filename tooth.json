@@ -1,11 +1,11 @@
 {
     "format_version": 1,
     "tooth": "github.com/WillowSauceR/MediaPlayer-tooth",
-    "version": "1.3.1",
+    "version": "1.4.0",
     "dependencies": {
         "github.com/tooth-hub/bds": [
             [
-                ">=1.20.0"
+                ">=1.20.10"
             ]
         ]
     },
